@@ -1,6 +1,6 @@
 # 안녕하세요 😊
 
-<p align="center">
+<p align="left">
   <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-red?style=flat-square&logo=blogger&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square"></a>
